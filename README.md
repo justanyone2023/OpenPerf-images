@@ -19,7 +19,7 @@ The table provides a comparative overview of **OpenPerf** against other popular 
 
 ​	•	Defines the domain each framework is intended for.
 
-​	•	**OpenPerf** is designed for evaluating projects within the OSS (open-source software) ecosystem, while other benchmarks like **ImageNet** focus on image classification or specific machine learning domains like **MLPerf** for hardware-based ML performance.
+​	•	**OpenPerf** is designed for evaluating projects within the open-source software (OSS) ecosystem and encompasses a wide range of benchmark categories, including data type dimensions (such as Graph and Time-Series) and task dimensions (such as Classification and Regression), thereby incorporating the characteristics of most benchmarks. In contrast, other benchmarks like ImageNet focus on image classification, while specialized machine learning benchmarks such as MLPerf are dedicated to assessing hardware-based machine learning performance.
 
 ​	2.	**Benchmarks**:
 
