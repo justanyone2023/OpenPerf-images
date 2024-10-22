@@ -25,7 +25,7 @@ The table provides a comparative overview of **OpenPerf** against other popular 
 
 ​	•	Lists the types of benchmarks included within each framework.
 
-​	•	**OpenPerf** stands out by offering a variety of benchmarks, including index-based, standard-based, model performance evaluation, and more, tailored to the OSS ecosystem. Other benchmarks are more specialized, like **OGB** focusing on graph-based tasks.
+​	•	**OpenPerf** stands out by offering a variety of benchmarks, including index-based, standard-based, and model performance evaluations, specifically tailored to the OSS ecosystem. Other benchmarks are more specialized; for instance, OGB focuses on graph-based tasks without addressing real-world scenario requirements, instead emphasizing general needs by using datasets such as citation networks from academic papers. Conversely, TPCx-AI employs synthetic data for its evaluations.
 
 ​	3.	**Focus**:
 
