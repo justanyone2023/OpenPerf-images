@@ -37,7 +37,7 @@ The table provides a comparative overview of **OpenPerf** against other popular 
 
 ​	•	Shows how flexible the benchmark is across different domains.
 
-​	•	**OpenPerf** is specifically designed to be flexible for various OSS domains, while other benchmarks like **ImageNet** are narrowly focused on tasks such as image classification.
+​	•	**OpenPerf** is specifically designed to be flexible across various OSS domains and innovatively categorizes tasks into three distinct layers, making it suitable for a wide range of users, from academia to industry. In contrast, other benchmarks like ImageNet are narrowly focused on tasks such as image classification.
 
 ​	5.	**Scalability**:
 
@@ -49,7 +49,7 @@ The table provides a comparative overview of **OpenPerf** against other popular 
 
 ​	•	The main metrics that the benchmark tracks.
 
-​	•	**OpenPerf** uses task-specific metrics, including accuracy, graph precision, and rank, which allows it to be adapted to a variety of tasks in the OSS ecosystem. Other frameworks focus on metrics such as accuracy, time-to-train, or inference speed.
+​	•	**OpenPerf** employs task-specific metrics, including accuracy, graph precision, and rank, enabling it to be adapted to a variety of tasks within the OSS ecosystem. In contrast, other frameworks focus on metrics such as accuracy, time-to-train, or inference speed, which are primarily relevant to general data science tasks.
 
 ​	7.	**End-to-End Evaluation**:
 
